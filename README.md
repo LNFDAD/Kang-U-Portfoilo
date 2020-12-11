@@ -1,10 +1,10 @@
 # 🥰 “KANG-U / Portfoilo” 😘
 
-### Project
+## Project
 ----
 * [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) - [explaination]()
 
-### C Language
+## C Language
 ----
 * [Homework Calculator.c](https://github.com/Kang-U/kangyooproject/tree/master/C/Kang-U%20HomeWork%20Calculator)
 * [NewStart.c](https://github.com/Kang-U/kangyooproject/tree/master/C/Kang-U%20NewStart)
