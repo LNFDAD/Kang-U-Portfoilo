@@ -2,7 +2,7 @@
 
 ### 🏆 Project 🏆
 ----
-* [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) 
+* [pygame.project](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Python/pygame) 
 
 ### 🥇 C Language 🥇
 ----
