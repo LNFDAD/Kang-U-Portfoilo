@@ -2,7 +2,7 @@
 
 ### Project
 ----
-* [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) - >>>[explaination]()
+* [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) - ```[explaination]()```
 
 ### C Language
 ----
@@ -14,6 +14,6 @@
 * [email.py](https://github.com/Kang-U/kangyooproject/tree/master/Python/email)
 * [NaverTop.py](https://github.com/Kang-U/kangyooproject/tree/master/Python/navertop)
   
-### **Arduino**
+### Arduino
 ----
 * [RCCar.ino](https://github.com/Kang-U/kangyooproject/tree/master/Arduino/RC%EC%B9%B4)
