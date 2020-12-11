@@ -1,4 +1,4 @@
-# KANG-U PORTFOILO
+# 🥰 “KANG-U / Portfoilo” 😘
 
 ### Project
 ---
