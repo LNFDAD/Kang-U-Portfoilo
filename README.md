@@ -6,14 +6,14 @@
 
 ### 🥇 C Language 🥇
 ----
-* [Homework Calculator.c](https://github.com/Kang-U/kangyooproject/tree/master/C/Kang-U%20HomeWork%20Calculator)
-* [NewStart.c](https://github.com/Kang-U/kangyooproject/tree/master/C/Kang-U%20NewStart)
+* [Homework Calculator.c](https://github.com/Kang-U/kang-u.portfoilo/tree/main/C/Kang-U%20HomeWork%20Calculator)
+* [NewStart.c](https://github.com/Kang-U/kang-u.portfoilo/tree/main/C/Kang-U%20NewStart)
 
 ### 🥈 Python 🥈
 ----
-* [email.py](https://github.com/Kang-U/kangyooproject/tree/master/Python/email)
-* [NaverTop.py](https://github.com/Kang-U/kangyooproject/tree/master/Python/navertop)
+* [email.py](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Python/email)
+* [NaverTop.py](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Python/navertop)
   
 ### 🥉 Arduino 🥉
 ----
-* [RCCar.ino](https://github.com/Kang-U/kangyooproject/tree/master/Arduino/RC%EC%B9%B4)
+* [RCCar.ino](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Arduino/RC%EC%B9%B4)
