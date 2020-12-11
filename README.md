@@ -9,7 +9,7 @@
 * [Homework Calculator.c](https://github.com/Kang-U/kang-u.portfoilo/tree/main/C/Kang-U%20HomeWork%20Calculator)
 * [NewStart.c](https://github.com/Kang-U/kang-u.portfoilo/tree/main/C/Kang-U%20NewStart)
 
-### 🥈 Python 🥈 
+### 🥈 Python 🥈 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 ----
 * [email.py](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Python/email)
 * [NaverTop.py](https://github.com/Kang-U/kang-u.portfoilo/tree/main/Python/navertop)
