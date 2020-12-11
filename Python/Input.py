@@ -1,0 +1,6 @@
+name = input('name')
+_id = input('id')
+email = input('email')
+print('name : ',name)
+print('id : ',_id)
+print('email : ',email)
