@@ -2,7 +2,7 @@
 
 ### 🏆 Project 🏆
 ----
-* [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) - ```[explaination]()```
+* [pygame.project](https://github.com/Kang-U/kangyooproject/tree/master/Python/pygame) 
 
 ### 🥇 C Language 🥇
 ----
